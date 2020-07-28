@@ -13,3 +13,5 @@ def handler(event, context):
       'Access-Control-Allow-Origin': '*'
     }
   }
+
+  return response
