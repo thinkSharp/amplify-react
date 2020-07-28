@@ -15,7 +15,7 @@ function App() {
   const [todos, setTodos] = useState(null)
   async function getTodos(){
     const apiData = await API.get('todos', '/items', {});
-    setTodos(apiData)
+    setTodos(apiData.message)
   }
 
   useEffect(() => {

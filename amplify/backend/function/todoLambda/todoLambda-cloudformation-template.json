@@ -69,7 +69,7 @@
 				"Timeout": "25",
 				"Code": {
 					"S3Bucket": "amplify-reactapp-dev-151411-deployment",
-					"S3Key": "amplify-builds/todoLambda-43366762515935697878-build.zip"
+					"S3Key": "amplify-builds/todoLambda-577530686d70562f396a-build.zip"
 				}
 			}
 		},
